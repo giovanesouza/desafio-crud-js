@@ -25,7 +25,7 @@ O programa deve permitir o **cadastro**, **leitura**, **atualização** e **excl
 >[!IMPORTANT]
 > 
 > * [x] Ter uma IDE/editor de código, o Node e o  git instalados na máquina;
-> * [x] Clique em `Fork` para realizar uma cópia do projeto para você ![Fork](./images/fork.jpg "Fork") - `caso tenha alguma dúvida assista ao vídeo clicando no link a seguir`: [▶️Explicação sobre o Fork](linkYoutube)
+> * [x] Clique em `Fork` para realizar uma cópia do projeto para você ![Fork](./images/fork.jpg "Fork") - `caso tenha alguma dúvida assista ao vídeo clicando no link a seguir`: [▶️Explicação sobre o Fork e Clonagem de repositório](https://youtu.be/L6HX3Kw359A)
 > * [x] No seu computador, `clone a cópia do projeto que está em seu repositório` - **também mostro no link acima**:
 >    ```shell
 >    git clone suaURL
