@@ -9,6 +9,14 @@ O programa deve permitir o **cadastro**, **leitura**, **atualização** e **excl
 - **categoria**;
 - **preco**;
 
+
+### Realize as implementações APENAS onde tem o `To DO`
+
+**Exemplo**: Neste caso é para `declarar um Array` com o nome `produtos`.
+
+![Realize as implementações apenas onde tem o To DO](./images/toDo.jpg "Realize as implementações APENAS onde tem o To DO")
+
+
 ### 🎯 Para a resolução deste desafio você precisará ter conhecimentos sobre:
 
 * [x] Declaração de variáveis;
@@ -79,7 +87,7 @@ O programa deve rodar dentro de um `loop Do While` de forma infinita até que o 
 
 <br/>
 
-### Cadastro de produtos
+### 1. Cadastro de produtos
 > Observe que o ID não é informado. Apenas o nome, categoria e preco devem ser informados ao cadastrar novos produtos.
 
 #### Cadastro 1
@@ -94,13 +102,13 @@ O programa deve rodar dentro de um `loop Do While` de forma infinita até que o 
 
 <br/>
 
-### Listam de Produtos (TODOS)
+### 2. Lista todos os Produtos cadastrados
 ![Produtos cadastrados](./images/produtos_cadastrados.jpg "Produtos cadastrados")
 
 
 <br/>
 
-### Buscando um produto com base no ID
+### 3. Buscando um produto com base no ID
 ![Buscando produto por ID](./images/buscar_por_ID.jpg "Buscando produto por ID")
 
 > Caso seja informado um ID que não existe, a mensagem abaixo deve ser exibida.
@@ -109,7 +117,7 @@ O programa deve rodar dentro de um `loop Do While` de forma infinita até que o 
 
 <br/>
 
-### Atualização de Produto
+### 4. Atualização de Produto
 ![Produto atualizado](./images/atualizar_produto.jpg "Produto atualizado")
 
 > **Caso seja informado um ID que não existe, a mensagem a seguir deve ser exibida**: `Produto não encontrado!`.
@@ -117,7 +125,7 @@ O programa deve rodar dentro de um `loop Do While` de forma infinita até que o 
 
 <br/>
 
-### Exclusão de Produto
+### 5. Exclusão de Produto
 ![Exclusão de produto](./images/exclusao_produto.jpg "Exclusão de produto")
 
 > **Caso seja informado um ID que não existe, a mensagem a seguir deve ser exibida**: `Produto não encontrado!`.
