@@ -133,9 +133,3 @@ O programa deve rodar dentro de um `loop Do While` de forma infinita até que o 
 ### Exibição da lista após exclusão
 ![Exibição final da lista](./images/exibicao_final_produtos.jpg "Exibição final da lista")
 
-
-
-## ✅ Resolução do desafio
-
-* [Resolução 1 - arquivo único]() - ⚠️ Será disponibilizado em breve.
-* [Resolução 2 - arquivo divididos por funcionalidades]() - ⚠️ Será disponibilizado em breve.
