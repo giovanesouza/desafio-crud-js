@@ -137,5 +137,5 @@ O programa deve rodar dentro de um `loop Do While` de forma infinita até que o 
 
 ## ✅ Resolução do desafio
 
-* [Resolução 1 - arquivo único]() - ⚠️ Será disponibilizado em breve.
-* [Resolução 2 - arquivo divididos por funcionalidades]() - ⚠️ Será disponibilizado em breve.
+* [Resolução 1 - arquivo único](https://github.com/giovanesouza/desafio-crud-js/tree/1-resolucao1)
+* [Resolução 2 - arquivo divididos por funcionalidades](https://github.com/giovanesouza/desafio-crud-js/tree/2-resolucao2)
